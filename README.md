@@ -281,10 +281,10 @@ Think of us as the **"Google Maps meets Weather Forecast"** for EV charging—bu
 
 | Role | Name | Year | Contact |
 |------|------|------|---------|
-| 👩‍💻 **Team Leader & Frontend Developer** | Aleena Fathima S<br/>B.Tech CSE Core | 1st Year | 📧 aleenasuhail100@gmail.com<br/>📱 +91 8428979570 |
-| 🎨 **Frontend Developer** | P. Shiva Duttan<br/>B.Tech CSE Core | 1st Year | 📧 spokesmansmun@gmail.com<br/>📱 +91 8124381925 |
-| ⚙️ **Backend Developer** | Vishruth Narayanan<br/>B.Tech CSE Core | 1st Year | 📧 narayananvishruth@gmail.com<br/>📱 +91 9840135934 |
-| 📊 **Backend Developer** | Nandini H Menon<br/>B.Tech CSE Core | 1st Year | 📧 nandinihmenon2007@gmail.com<br/>📱 +91 8943713064 |
+| 👩‍💻 **Team Leader & Frontend Developer** | Aleena Fathima S<br/>B.Tech CSE Core | 1st Year | 📧 aleenasuhail100@gmail.com<br/>📱 +91 1234567890 |
+| 🎨 **Frontend Developer** | P. Shiva Duttan<br/>B.Tech CSE Core | 1st Year | 📧 spokesmansmun@gmail.com<br/>📱 +91 1234567890 |
+| ⚙️ **Backend Developer** | Vishruth Narayanan<br/>B.Tech CSE Core | 1st Year | 📧 narayananvishruth@gmail.com<br/>📱 +91 1234567890 |
+| 📊 **Backend Developer** | Nandini H Menon<br/>B.Tech CSE Core | 1st Year | 📧 nandinihmenon2007@gmail.com<br/>📱 +91 1234567890 |
 
 **Institution**: SRM Institute of Science and Technology, Ramapuram Campus
 
